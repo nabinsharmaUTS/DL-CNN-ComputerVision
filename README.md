@@ -26,7 +26,7 @@ The course seeks to provide a strong foundation in CNN architectures and their u
 * Able to create custom architectures for Image Classification using CNNs
 * Object Detection, Semantic Segmentation using CNNs
 
-## Course Schedule:
+## Course Schedule: (Tentative, to be confirmed)
 * Day 1 | Tuesday, Nov 26  : Introduction, Image Processing & NN Basics - 2 Lectures
 * Day 2 | Wednesday, Nov 27: CNN Basics and Image Classification Techniques - 2 Lectures
 * Day 3 | Thursday, Nov 28 : Object Detection Methods with CNNs - 2 Lectures
