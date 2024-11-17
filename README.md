@@ -1,5 +1,6 @@
-# Deep Learning and CNN for Computer Vision <br/> 
-Lecture at Hokkaido University, Japan
+# Deep Learning and CNN for Computer Vision <br/> Lecture at Hokkaido University, Japan
+
+
 ##
 **Start date:** November 26, 2024 (To be confirmed)<br/>
 **Delivery Mode:** Online
