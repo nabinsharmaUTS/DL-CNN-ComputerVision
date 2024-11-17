@@ -1,6 +1,9 @@
-# Deep Learning and CNN for Computer Vision @ <br/> Hokkaido University
+# Deep Learning and CNN for Computer Vision <br/> 
+# Lecture at Hokkaido University, Japan
 
 **Start date:** November 26, 2024 (To be confirmed)<br/>
+**Delivery Mode:** Online
+
 
 **Dr. Nabin Sharma, PhD, SMIEEE** <br/>
 Associate Professor,<br/>
