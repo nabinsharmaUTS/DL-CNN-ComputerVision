@@ -37,7 +37,8 @@ The course seeks to provide a strong foundation in CNN architectures and their u
 | `git status` | List all *new or modified* files |
 | `git diff` | Show file differences that **haven't been** staged |
 
-
+| DAY | DATE | Description |
+| --- | --- | --- |
 | Day 1 | Tuesday, Nov 26   | Introduction, Image Processing & NN Basics - 2 Lectures |
 | Day 2 | Wednesday, Nov 27 | CNN Basics and Image Classification Techniques - 2 Lectures |
 | Day 3 | Thursday, Nov 28  | Object Detection Methods with CNNs - 2 Lectures |
