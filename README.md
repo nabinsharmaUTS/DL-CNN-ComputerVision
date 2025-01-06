@@ -40,6 +40,11 @@ The course seeks to provide a strong foundation in CNN architectures and their u
 | Day 4 | Thursday, Jan 23    | 10.30am JST, 12.30pm AEST | Image Segmentation and Advanced Topics in CNNs - 2 Lectures |
 | Day 5 | Friday, Jan 24    | 10.30am JST, 12.30pm AEST | Case Studies |
 
+### Each Day Schedule
+* Lecture session-1 : 10:30 - 12:00 JST (12:30 - 14:30 AEDT) 
+* Lecture session-2 : 13:00 - 14:30 JST (15:00 - 16:30 AEDT)
+* Hands-on session  : 14:30 - 15:30 JST (16:30 - 17:30 AEDT) 
+
 ## Evaluation:
 * Task 1: Image Classification on a public dataset (Multi-class classification) 
 * Task 2: Object Detection on a small public dataset (Multi-Object)
