@@ -2,8 +2,8 @@
 
 
 ##
-**Start date:** November 26, 2024 (To be confirmed)<br/>
-**Delivery Mode:** Online
+**Start date:** January 20, 2025 <br/>
+**Delivery Mode:** Online (ZOOM)
 
 ##
 **Dr. Nabin Sharma, PhD, SMIEEE** <br/>
@@ -30,15 +30,15 @@ The course seeks to provide a strong foundation in CNN architectures and their u
 * Able to create custom architectures for Image Classification using CNNs
 * Object Detection, Semantic Segmentation using CNNs
 
-## Course Schedule: (Tentative, to be confirmed)
+## Course Schedule:
 
 | DAY | DATE | START TIME | Topics Covered |
 | --- | --- | --- | --- |
-| Day 1 | Tuesday, Nov 26   | 10.30am JST, 12.30pm AEST | Introduction, Image Processing & NN Basics - 2 Lectures |
-| Day 2 | Wednesday, Nov 27 | 10.30am JST, 12.30pm AEST | CNN Basics and Image Classification Techniques - 2 Lectures |
-| Day 3 | Thursday, Nov 28  | 10.30am JST, 12.30pm AEST | Object Detection Methods with CNNs - 2 Lectures |
-| Day 4 | Friday, Nov 27    | 10.30am JST, 12.30pm AEST | Image Segmentation and Advanced Topics in CNNs - 2 Lectures |
-| Day 5 | Monday, Dec 02    | 10.30am JST, 12.30pm AEST | Case Studies |
+| Day 1 | Monday, Jan 20   | 10.30am JST, 12.30pm AEST | Introduction, Image Processing & NN Basics - 2 Lectures |
+| Day 2 | Tuesday, Jan 21 | 10.30am JST, 12.30pm AEST | CNN Basics and Image Classification Techniques - 2 Lectures |
+| Day 3 | Wednesday, Jan 22  | 10.30am JST, 12.30pm AEST | Object Detection Methods with CNNs - 2 Lectures |
+| Day 4 | Thursday, Jan 23    | 10.30am JST, 12.30pm AEST | Image Segmentation and Advanced Topics in CNNs - 2 Lectures |
+| Day 5 | Friday, Jan 24    | 10.30am JST, 12.30pm AEST | Case Studies |
 
 ## Evaluation:
 * Task 1: Image Classification on a public dataset (Multi-class classification) 
