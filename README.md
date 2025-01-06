@@ -45,7 +45,7 @@ The course seeks to provide a strong foundation in CNN architectures and their u
 * Lecture session-2 : 13:00 - 14:30 JST (15:00 - 16:30 AEDT)
 * Hands-on session  : 14:30 - 15:30 JST (16:30 - 17:30 AEDT) 
 
-## Evaluation:
+## Assessment/Evaluation:
 * Task 1: Image Classification on a public dataset (Multi-class classification) 
 * Task 2: Object Detection on a small public dataset (Multi-Object)
 * Deliverable: Report, (Template will be shared)
