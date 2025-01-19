@@ -1,4 +1,4 @@
-# DAY 2 : CNN Basics
+# DAY 2 : CNN Basics and Image Classification Techniques
 
 ## Lecture -1 Topics: 
 * Introduction to AI, ML, CV, & DL
