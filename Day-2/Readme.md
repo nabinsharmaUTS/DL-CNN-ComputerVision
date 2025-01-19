@@ -4,11 +4,11 @@
 * CNN Basics
 * Computer Vision tasks Recap
 * CNN Layers
-* Convolution layer (Padding and Stride)
-* Pooling layer
-* Fully Connected Layer
-* CNN Layer Visualization and intuitions.
-* Multi-Layered Neural Network
+*  Convolution layer (Padding and Stride)
+*  Pooling layer
+*  Fully Connected Layer
+*  CNN Layer Visualization and intuitions.
+*  Multi-Layered Neural Network
 * Dataset Preparation 
 * Understanding Accuracy 
 
