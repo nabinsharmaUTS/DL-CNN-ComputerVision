@@ -24,3 +24,9 @@
 * Introduction to OpenCV Library, basic operations
 * Edge Detection using Convolutions operation
 * Logistic Regression Classifier using Neural Network
+
+### Instructions for Hands-on session:
+* Download the dataset and iPython Notebooks
+* Create a Folder named: "Hokkaido Uni DL"-->"/Day-1" on your Google Drive or storage attached to your Google Colab
+* Upload the iPython Notebooks and datasets into the 'Day-1'
+* We are now Ready to start with the first notebook NB1 
