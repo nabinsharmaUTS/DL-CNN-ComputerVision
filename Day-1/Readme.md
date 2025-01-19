@@ -1,4 +1,4 @@
-# DAY 1: Lecture topics:
+# DAY 1 Topics
 
 ## Lecture -1:
 * Introduction to AI, ML, CV, & DL
