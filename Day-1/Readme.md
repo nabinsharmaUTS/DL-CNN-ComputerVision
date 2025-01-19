@@ -1,6 +1,6 @@
-# DAY 1 Topics
+# DAY 1 : Introduction, Image Processing & NN Basics
 
-## Lecture -1:
+## Lecture -1 Topics: 
 * Introduction to AI, ML, CV, & DL
 * Popular Computer Vision tasks and use case
 * Generative AI
@@ -9,7 +9,7 @@
 * Sample student Projects @ UTS
 * Image Processing Basics
 
-## Lecture -2:
+## Lecture -2 Topics:
 * Neural Network Basics
 * ANN Learning process
 * Understanding loss function
