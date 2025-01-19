@@ -1,29 +1,30 @@
 # DAY 2 : CNN Basics and Image Classification Techniques
 
 ## Lecture -1 Topics: 
-* Introduction to AI, ML, CV, & DL
-* Popular Computer Vision tasks and use case
-* Generative AI
-* Features in Machine Learning
-* Basics of Image classification  
-* Sample student Projects @ UTS
-* Image Processing Basics
+* CNN Basics
+* Computer Vision tasks Recap
+* CNN Layers
+* Convolution layer (Padding and Stride)
+* Pooling layer
+* Fully Connected Layer
+* CNN Layer Visualization and intuitions.
+* Multi-Layered Neural Network
+* Dataset Preparation 
+* Understanding Accuracy 
+
 
 ## Lecture -2 Topics:
-* Neural Network Basics
-* ANN Learning process
-* Understanding loss function
-* Back Propagation
-* Gradient Descent and intuitions
-* Types of Gradient Descent
-* Activations Functions
-* Logistic Regression with Back Propagation
-* Multi-Layered Neural Network
+* Bias and Variance effect
+* Fixing Bias and Variance issues
+* Regularization: L1, L2 Dropouts
+* Data Augmentation
+* Optimization techniques (SGD with Momentum, RMSProp, Adam)
+* Transfer Learning techniques
+* Classic CNN architectures (AlexNet, Inception/GoogleNet)
+
 
 ## Hands-on/Lab session:
-* Introduction to OpenCV Library, basic operations
-* Edge Detection using Convolutions operation
-* Logistic Regression Classifier using Neural Network
+* TBA
 
 ### Instructions for Hands-on session:
 * Download the dataset and iPython Notebooks
