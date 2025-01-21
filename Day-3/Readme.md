@@ -1,4 +1,4 @@
-# DAY 2 : Object Detection Techniques
+# DAY 3 : Object Detection Methods with CNNs
 
 ## Lecture -1 Topics: 
 * Introduction to Object Detection
