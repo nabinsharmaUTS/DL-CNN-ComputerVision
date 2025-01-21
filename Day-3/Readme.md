@@ -1,4 +1,4 @@
-# DAY 2 : CNN Basics and Image Classification Techniques
+# DAY 2 : Object Detection Techniques
 
 ## Lecture -1 Topics: 
 * Introduction to Object Detection
