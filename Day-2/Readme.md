@@ -24,7 +24,8 @@
 
 
 ## Hands-on/Lab session:
-* TBA
+* Image Classification Using Custom CNN
+* Avoiding overfitting using Regularization
 
 ### Instructions for Hands-on session:
 * Download the dataset and iPython Notebooks
