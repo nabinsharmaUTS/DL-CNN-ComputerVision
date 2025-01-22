@@ -17,7 +17,7 @@
   - State of the art
 
 ## Hands-on/Lab session:
-* TBA
+* Object Detection Using YoloV5
 
 ### Instructions for Hands-on session:
 * Download the dataset and iPython Notebooks
