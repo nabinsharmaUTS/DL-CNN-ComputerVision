@@ -20,6 +20,7 @@
 * Object Detection Using YoloV5
 * Download the dataset using this link: [Kangaroo Dataset](https://drive.google.com/file/d/1O7v0NV0_ILIpDoZ5kZHzI-jmvA2zHQNF/view?usp=sharing)
 * **Reference:** How to train YoloV9 on Custom Dataset: [Train YoloV9 on Custom Dataset](https://colab.research.google.com/github/roboflow-ai/notebooks/blob/main/notebooks/train-yolov9-object-detection-on-custom-dataset.ipynb)
+* **Reference** : [Article on how to train YoloV9 on Custom dataset](https://blog.roboflow.com/train-yolov9-model/ )
 
 ### Instructions for Hands-on session:
 * Download the dataset and iPython Notebooks
