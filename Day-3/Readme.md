@@ -18,7 +18,7 @@
 
 ## Hands-on/Lab session:
 * Object Detection Using YoloV5
-* Download the dataset using this link: [https://drive.google.com/file/d/1O7v0NV0_ILIpDoZ5kZHzI-jmvA2zHQNF/view?usp=sharing] 
+* Download the dataset using this link: [Kangaroo Dataset](https://drive.google.com/file/d/1O7v0NV0_ILIpDoZ5kZHzI-jmvA2zHQNF/view?usp=sharing)
 
 ### Instructions for Hands-on session:
 * Download the dataset and iPython Notebooks
