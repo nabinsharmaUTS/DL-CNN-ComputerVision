@@ -21,7 +21,7 @@
 
 ## Hands-on/Lab session:
 * Instance Segmetation Using YoloV5
-* TBA
+* **Download Dataset:** [Toy Dataset for Instance Segmentation](https://drive.google.com/file/d/1mIT6tD-4RWVmnmAIpJF4XK4zn-JA9jUD/view?usp=sharing)
 
 ### Instructions for Hands-on session:
 * Download the dataset and iPython Notebooks
