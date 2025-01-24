@@ -70,3 +70,6 @@ The course seeks to provide a strong foundation in CNN architectures and their u
 
 [![InkWell AI](Images/IW-Thumnail.jpg)](https://www.youtube.com/watch?v=D9GNhsgHb20?si=VUev875Ly68ZBV_I)
 
+## Feedback
+Please provide your valuable feedback using this form: [Feedback Form](https://forms.office.com/r/34HQJJePv4)
+This is help us to improve the content and delivery methodology for future sessions.
