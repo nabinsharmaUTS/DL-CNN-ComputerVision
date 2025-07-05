@@ -1,8 +1,8 @@
 # Deep Learning and CNN for Computer Vision <br/> Lecture at Hokkaido University, Japan
-
+## 2nd session
 
 ##
-**Start date:** January 20, 2025 <br/>
+**Start date:** July 07, 2025 <br/>
 **Delivery Mode:** Online (ZOOM)
 
 ##
@@ -34,16 +34,16 @@ The course seeks to provide a strong foundation in CNN architectures and their u
 
 | DAY | DATE | START TIME | Topics Covered |
 | --- | --- | --- | --- |
-| Day 1 | Monday, Jan 20   | 10.30am JST, 12.30pm AEST | Introduction, Image Processing & NN Basics - 2 Lectures |
-| Day 2 | Tuesday, Jan 21 | 10.30am JST, 12.30pm AEST | CNN Basics and Image Classification Techniques - 2 Lectures |
-| Day 3 | Wednesday, Jan 22  | 10.30am JST, 12.30pm AEST | Object Detection Methods with CNNs - 2 Lectures |
-| Day 4 | Thursday, Jan 23    | 10.30am JST, 12.30pm AEST | Image Segmentation and Advanced Topics in CNNs - 2 Lectures |
-| Day 5 | Friday, Jan 24    | 10.30am JST, 12.30pm AEST | Case Studies |
+| Day 1 | Monday, July 07   | 10.30am JST, 12.30pm AEST | Introduction, Image Processing & NN Basics - 2 Lectures |
+| Day 2 | Tuesday, July 08 | 10.30am JST, 12.30pm AEST | CNN Basics and Image Classification Techniques - 2 Lectures |
+| Day 3 | Wednesday, July 09  | 10.30am JST, 12.30pm AEST | Object Detection Methods with CNNs - 2 Lectures |
+| Day 4 | Thursday, July 10    | 10.30am JST, 12.30pm AEST | Image Segmentation and Advanced Topics in CNNs, Case Studies - 2 Lectures |
+
 
 ### Each Day Schedule
-* Lecture session-1 : 10:30 - 12:00 JST (12:30 - 14:30 AEDT) 
-* Lecture session-2 : 13:00 - 14:30 JST (15:00 - 16:30 AEDT)
-* Hands-on session  : 14:30 - 15:30 JST (16:30 - 17:30 AEDT) 
+* Lecture session-1 : 10:30 - 12:00 JST (11:30 - 13:00 AEST) 
+* Lecture session-2 : 13:00 - 14:30 JST (14:00 - 15:30 AEST)
+* Hands-on session  : 14:30 - 16:30 JST (15:30 - 17:30 AEST) 
 
 ## Assessment/Evaluation:
 * Task 1: Image Classification on a public dataset (Multi-class classification) 
