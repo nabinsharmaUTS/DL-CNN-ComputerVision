@@ -29,6 +29,9 @@
 * Download the dataset and iPython Notebooks
 * Create a Folder named: "Hokkaido Uni DL"-->"/Day-4" on your Google Drive or storage attached to your Google Colab
 * Upload the iPython Notebooks and datasets into the 'Day-1'
-* We are now Ready to start with the first notebook NB1 
+* We are now Ready to start with the first notebook NB1
+
+### Reference:
+* [SegNet](https://arxiv.org/pdf/1511.00561)
 
 
